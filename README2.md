@@ -1,0 +1,1 @@
+# Napisz program, który obliczy obwód ko³a dla promienia równego 7. #
