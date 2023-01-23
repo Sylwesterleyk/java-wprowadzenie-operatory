@@ -1,2 +1,2 @@
-#Dane s¹ wartoœci int a = 7, int b = 9, int c = 12, int triangleRegion. Policz obwód
-trójk¹ta. Wyœwietl wynik w konsoli.#
+#Napisz program, który przy pomocy logicznego operatora trój-argumentowego,
+wyznacza wartoœæ absolutn¹ liczby x.#
